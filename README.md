@@ -17,7 +17,7 @@
 
 - 🎓 CS&E Student at Green University of Bangladesh  
 - 🧠 Focused on mastering **Web Development & AI Integration**  
-- 💼 Currently working on a project called **Green School Portal**  
+- 💼 Currently working on a project called **Green School Portal** and **mydokan_Ecommerce** 
 - 🧩 Exploring **Flask, TensorFlow, Node.js, and Chatbot AI**  
 - 💬 Ask me about HTML, CSS, JavaScript, or how to debug like a ninja  
 - ✨ Dream: To become a **top-tier developer** and build my own tech brand  
